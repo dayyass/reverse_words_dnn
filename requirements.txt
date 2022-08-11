@@ -1,1 +1,7 @@
+jupyter==1.0.0
+matplotlib==3.5.2
+nltk==3.7
 pre-commit==2.19.0  # dev
+torch==1.12.1
+tqdm==4.64.0
+transformers==4.21.1
